@@ -1,0 +1,11 @@
+.drag-negativ{
+	-fx-fill: red;
+	-fx-border-color: red;
+	-fx-stroke: red;
+}
+
+.drag-positiv{
+	-fx-fill: green;
+	-fx-border-color: green;
+	-fx-stroke: green;
+}
